@@ -7,4 +7,4 @@ The user must follow these steps to use the program properly:
 - Type 1 for 1st degree polynomial type (2nd .... are not programmed)
 - Type 1, 3, 4, 7, 12 or 16 for 'Points de Gauss'
 
-The results displayed apart from the figures are L2 error and relative error
+The results displayed apart from the figures are L2 and relative errors, respectively.
