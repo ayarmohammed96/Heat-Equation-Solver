@@ -1,5 +1,5 @@
 # Heat-Equation-Solver
-The programs incorporates Finit Element Methods to solve 2D heat equations using trianglular meshing.
+The program incorporates Finit Element Methods to solve 2D heat equations using trianglular meshing.
 
 The user must follow these steps to use the program properly:
 - Run the program from the Main2D script
